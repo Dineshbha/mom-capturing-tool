@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "sample-microservice.minimum",
+    "type": "java.lang.String",
+    "description": "A description for 'sample-microservice.minimum'"
+  },
+  {
+    "name": "sample-microservice.maximum",
+    "type": "java.lang.String",
+    "description": "A description for 'sample-microservice.maximum'"
+  },
+  {
+    "name": "sample-microservice.test",
+    "type": "java.lang.String",
+    "description": "A description for 'sample-microservice.test'"
+  }
+]}

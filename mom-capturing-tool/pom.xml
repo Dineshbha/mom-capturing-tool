@@ -8,7 +8,7 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>mom-capturing-tool</groupId>
 	<artifactId>mom-capturing-tool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mom-capturing-tool</name>
