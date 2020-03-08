@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+E:\Learning\SpringSamples\MOM-capturing-tool\mom-capturing-tool\.metadata\.plugins\org.eclipse.jdt.core
